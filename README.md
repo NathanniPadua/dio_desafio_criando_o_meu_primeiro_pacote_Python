@@ -2,12 +2,12 @@
 
 Description. 
 The package area_calculator is used to calculate the areas of plane figures:
-	- Triangle 
-	- Rectangle 
-	- Square
-	- Circle
-	- Trapezoid 
-	- Rhombus
+- Triangle 
+- Rectangle 
+- Square
+- Circle
+- Trapezoid 
+- Rhombus
 	
 
 ## Installation
