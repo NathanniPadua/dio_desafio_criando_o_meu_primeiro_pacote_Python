@@ -1,27 +1,32 @@
-# package_name
+# area_calculator
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package area_calculator is used to calculate the areas of plane figures:
+	- Triangle 
+	- Rectangle 
+	- Square
+	- Circle
+	- Trapezoid 
+	- Rhombus
+	
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install area_calculator
 
 ```bash
-pip install package_name
+pip install area_calculator
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from area_calculator import area_formulas
+area_formulas.my_function()
 ```
 
 ## Author
-My_name
+Nathanni
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
